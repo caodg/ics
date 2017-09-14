@@ -8,6 +8,8 @@
 
 学生: [名单及出勤](students.md)
 
+[参考资料](refs.md)
+
 ---
 
 ## Schedule
