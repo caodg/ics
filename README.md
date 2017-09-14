@@ -8,7 +8,9 @@
 
 学生: [名单及出勤](students.md)
 
-在线做Lab: [北大燕雀平台](http://iwork.pku.edu.cn)
+作业: [作业列表](homework.md)
+
+Lab: 在线使用[北大燕雀平台](http://iwork.pku.edu.cn)做Lab
 
 [参考资料](ref.md)
 
