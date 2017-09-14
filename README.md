@@ -1,5 +1,12 @@
-# ics
-ICS Seminar @ PKU
+# ICS Seminar 18 @ PKU
+
+教师: 曹东刚 (caodg AT pku.edu.cn)
+
+助教: 金典 (jind AT pku.edu.cn)
+
+教室: 文史楼102
+
+---
 
 ## Schedule
 
@@ -35,4 +42,23 @@ Date  |      Topic    |   Assign
 12.20 | Synchronization: Advanced | L8 due
 12.25 | Multicore |
 12.29 | **Course review** |
-      | **Final exam** |
+
+---
+
+## Students
+
+ ID	        | Name
+------------|--------
+1600012984	| 赵宇瑄
+1600012750	| 程轶
+1600094803	| 覃博文
+1600011072	| 许逸伦
+1600012890	| 闫汉麟
+1600012947	| 盛楷文
+1600013005	| 徐珂凡
+1600012856	| 安震威
+1600012835	| 管仕杰
+1600012977	| 李书恒
+1600012870	| 何炬
+1600012923	| 张鑫
+1500012979	| 赵健龙
