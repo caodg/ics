@@ -1,4 +1,4 @@
-# ICS Seminar 18 @ PKU
+# ICS Seminar 21 @ PKU
 
 教师: 曹东刚 (caodg AT pku.edu.cn)
 
