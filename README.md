@@ -10,7 +10,7 @@
 
 作业: [提交到助教的ics作业仓库](https://github.com/jind5182/ics21hw)
 
-Lab: 在线使用[北大燕雀平台](http://iwork.pku.edu.cn)做Lab
+Lab: 题目及提交在 https://ics16.pku.edu.cn, 可在线使用[北大燕雀平台](http://iwork.pku.edu.cn)做Lab
 
 [参考资料](ref.md)
 
