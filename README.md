@@ -2,13 +2,13 @@
 
 教师: 曹东刚 (caodg AT pku.edu.cn)
 
-助教: 金典 (jind AT pku.edu.cn)
+助教: 金典 (jind AT pku.edu.cn,  https://github.com/jind5182)
 
 教室: 文史楼102
 
 学生: [名单及出勤](students.md)
 
-作业: [作业列表](homework.md)
+作业: [提交到助教的ics作业仓库](https://github.com/jind5182/ics21hw)
 
 Lab: 在线使用[北大燕雀平台](http://iwork.pku.edu.cn)做Lab
 
