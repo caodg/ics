@@ -26,7 +26,7 @@ S1  | 09.14 |               |            |
 3   | 09.18 | [Floating Point](slides/03-float.pdf) |   | 季卫明慧
 4   | 09.20 | [Machine Prog: Basics](slides/04-machine-basics.pdf) | L1 due | 张俊楠
 S2  | 09.21 |               |            |         
-5   | 09.25 | Machine Prog: Control | L2 (bomblab) out | 向东伟
+5   | 09.25 | [Machine Prog: Control](slides/05-machine-control.pdf) | L2 (bomblab) out | 向东伟
 6   | 09.27 | Machine Prog: Procedures | | 于长泓
 S3  | 09.28 |               |            |         
 7   | 10.09 | Machine Prog: Data | L2 due | 梁堃昌泰
