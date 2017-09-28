@@ -20,6 +20,10 @@ Here are some references:
 
 * [Contributing to repository](http://docklet.unias.org/contrib/)
 
+## Markdown
+
+* https://guides.github.com/features/mastering-markdown/
+
 ## HTML胶片
 
 * https://github.com/caodg/slidedemo
