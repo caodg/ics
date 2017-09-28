@@ -19,3 +19,7 @@ Here are some references:
 * [git-简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 * [Contributing to repository](http://docklet.unias.org/contrib/)
+
+## HTML胶片
+
+* https://github.com/caodg/slidedemo
