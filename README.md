@@ -4,7 +4,7 @@
 
 助教: 金典 (jind AT pku.edu.cn,  https://github.com/jind5182)
 
-教室: 文史楼102
+教室: ~~文史楼102~~ 理教411
 
 学生: [名单及出勤](students.md)
 
