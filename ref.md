@@ -24,6 +24,6 @@ Here are some references:
 
 * https://guides.github.com/features/mastering-markdown/
 
-## HTML胶片
+## 回顾课程: 用HTML胶片
 
 * https://github.com/caodg/slidedemo
