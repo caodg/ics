@@ -8,7 +8,7 @@
 
 学生: [名单及出勤](students.md)
 
-作业: [提交到助教的ics作业仓库](https://github.com/jind5182/ics21hw)
+作业: [提交到助教的ics作业仓库](https://github.com/jind5182/ics21hw), [格式](https://github.com/jind5182/ics21hw/blob/master/1600012794.md)
 
 Lab: 题目及提交在 https://ics16.pku.edu.cn, 可在线使用[北大燕雀平台](http://iwork.pku.edu.cn)做Lab
 
