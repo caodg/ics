@@ -29,8 +29,8 @@ S2  | 09.21 |               |            |
 5   | 09.25 | [Machine Prog: Control](slides/05-machine-control.pdf) | L2 (bomblab) out | 向东伟
 6   | 09.27 | [Machine Prog: Procedures](slides/06-machine-procedures.pdf) | | 于长泓
 S3  | 09.28 |               |            |         
-7   | 10.09 | Machine Prog: Data | L2 due | 梁堃昌泰
-8   | 10.11 | Machine Prog: Advanced | L3(attacklab) out | 王希豪
+7   | 10.09 | [Machine Prog: Data](slides/07-machine-data.pdf) | L2 due | 梁堃昌泰
+8   | 10.11 | [Machine Prog: Advanced](slides/08-machine-advanced.pdf) | L3(attacklab) out | 王希豪
 S4  | 10.12 |               |            |         
 9   | 10.16 | Processor Arch: ISA&Logic | L3 due | 王心宇
 10  | 10.18 | Processor Arch: Sequential | L4 (archlab) out | 李孝天
