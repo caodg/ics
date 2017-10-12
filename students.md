@@ -2,7 +2,7 @@
 
 A: Absent , L: Late, AL: Ask for leave
 
- ID	        | Name   |9.14-9.28|
+ ID	        | Name   |9.14-10.12|
 ------------|--------|----|
 1600012960	| [周小妹](https://github.com/zhouxiaomeier) |	  |
 1600012736	| [季卫明慧](https://github.com/JVMH)|	  |
@@ -11,7 +11,7 @@ A: Absent , L: Late, AL: Ask for leave
 1600062803	| [于长泓](https://github.com/pkuych) |    |
 1600012920	| [梁堃昌泰](https://github.com/lkct)|	  |
 1600012794	| [王希豪](https://github.com/VictorWonder) |    |
-1600012709	| [王心宇](https://github.com/ChaseOldDarl) |    |
+~~1600012709~~	| ~~[王心宇](https://github.com/ChaseOldDarl)~~ |    |
 1600012997	| [李孝天](https://github.com/PblackT) |    |
 1600012741	| [周昊晟](https://github.com/sola12741) |    |
 1600013006	| [杨璧鸿](https://github.com/damoguda) |    |
