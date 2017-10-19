@@ -3,7 +3,7 @@
 A: Absent , L: Late, AL: Ask for leave
 
  ID	        | Name   |9.14-10.12|10.19|
-------------|--------|----|
+------------|--------|------|-----
 1600012960	| [周小妹](https://github.com/zhouxiaomeier) |	  | |
 1600012736	| [季卫明慧](https://github.com/JVMH)|	  | |
 1600012910	| [张俊楠](https://github.com/zjnzero) |	  | |
