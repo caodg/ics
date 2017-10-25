@@ -35,8 +35,8 @@ S4  | 10.12 |               |            |
 9   | 10.16 | [Processor Arch: ISA&Logic](slides/09-Processor Arch-ISA&Logic.pdf) | L3 due | [李孝天](https://github.com/PblackT)
 10  | 10.18 | [Processor Arch: Sequential](slides/10-Processor Arch-Sequential.pdf) | L4 (archlab) out | [周昊晟](https://github.com/sola12741)
 S5  | 10.19 |               |            |         
-11  | 10.23 | Processor Arch: Pipelined | L4-a checkpoint | [杨璧鸿](https://github.com/damoguda)
-12  | 10.25 | Program optimization | L4-b checkpoint | [张智涵](https://github.com/ytyz1307zzh)
+11  | 10.23 | [Processor Arch: Pipelined](slides/11-Processor Arch-Pipelined.pdf) | L4-a checkpoint | [杨璧鸿](https://github.com/damoguda)
+12  | 10.25 | [Program optimization](slides/12-optimization.pdf) | L4-b checkpoint | [张智涵](https://github.com/ytyz1307zzh)
 S6  | 10.26 |               |            |         
 13  | 10.30 | The Memory Hierarchy | L4 due | [黄镛](https://github.com/Olivina)
 14  | 11.01 | Cache Memories | L5 (cachelab) out | [周小妹](https://github.com/zhouxiaomeier)
