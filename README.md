@@ -32,8 +32,8 @@ S3  | 09.28 |               |            |
 7   | 10.09 | [Machine Prog: Data](slides/07-machine-data.pdf) | L2 due | [梁堃昌泰](https://github.com/lkct)
 8   | 10.11 | [Machine Prog: Advanced](slides/08-machine-advanced.pdf) | L3(attacklab) out | [王希豪](https://github.com/VictorWonder)
 S4  | 10.12 |               |            |         
-9   | 10.16 | [Processor Arch: ISA&Logic](slides/09-Processor Arch-ISA&Logic.pdf) | L3 due | [李孝天](https://github.com/PblackT)
-10  | 10.18 | [Processor Arch: Sequential](slides/10-Processor Arch-Sequential.pdf) | L4 (archlab) out | [周昊晟](https://github.com/sola12741)
+9   | 10.16 | [Processor Arch: ISA&Logic](slides/09-ProcessorArch-ISA&Logic.pdf) | L3 due | [李孝天](https://github.com/PblackT)
+10  | 10.18 | [Processor Arch: Sequential](slides/10-ProcessorArch-Sequential.pdf) | L4 (archlab) out | [周昊晟](https://github.com/sola12741)
 S5  | 10.19 |               |            |         
 11  | 10.23 | [Processor Arch: Pipelined](slides/11-Processor Arch-Pipelined.pdf) | L4-a checkpoint | [杨璧鸿](https://github.com/damoguda)
 12  | 10.25 | [Program optimization](slides/12-optimization.pdf) | L4-b checkpoint | [张智涵](https://github.com/ytyz1307zzh)
