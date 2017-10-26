@@ -54,12 +54,12 @@ S10 | 11.23 |               |            |
 22  | 11.29 | Virtual Memory: Systems | L7(malloclab) out | [王希豪](https://github.com/VictorWonder)
 S11 | 11.30 |               |            |         
 23  | 12.04 | Dynamic Memory Allocation |  | [李孝天](https://github.com/PblackT)
-24  | 12.06 | Network Programming I | | [周昊晟](https://github.com/sola12741)
+24  | 12.06 | Network Programming I | | [杨璧鸿](https://github.com/damoguda)
 S12 | 12.07 |               |            |         
-25  | 12.11 | Network Programming II | L7 due | [杨璧鸿](https://github.com/damoguda)
-26  | 12.13 | Concurrent Programming | L8 (proxylab) out | [张智涵](https://github.com/ytyz1307zzh)
+25  | 12.11 | Network Programming II | L7 due | [张智涵](https://github.com/ytyz1307zzh)
+26  | 12.13 | Concurrent Programming | L8 (proxylab) out | [黄镛](https://github.com/Olivina)
 S13 | 12.14 |               |            |         
-27  | 12.18 | Synchronization: Basic | | [黄镛](https://github.com/Olivina)
+27  | 12.18 | Synchronization: Basic | | 待定
 28  | 12.20 | Synchronization: Advanced | L8 due | 待定
 S14 | 12.21 |               |            |         
 29  | 12.25 | Multicore | | 待定
