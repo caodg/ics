@@ -38,8 +38,8 @@ S5  | 10.19 |               |            |
 11  | 10.23 | [Processor Arch: Pipelined](slides/11-ProcessorArch-Pipelined.pdf) | L4-a checkpoint | [杨璧鸿](https://github.com/damoguda)
 12  | 10.25 | [Program optimization](slides/12-optimization.pdf) | L4-b checkpoint | [张智涵](https://github.com/ytyz1307zzh)
 S6  | 10.26 |               |            |         
-13  | 10.30 | The Memory Hierarchy | L4 due | [黄镛](https://github.com/Olivina)
-14  | 11.01 | Cache Memories | L5 (cachelab) out | [周小妹](https://github.com/zhouxiaomeier)
+13  | 10.30 | [The Memory Hierarchy](slides/13-memory-hierarchy.pdf) | L4 due | [黄镛](https://github.com/Olivina)
+14  | 11.01 | [Cache Memories](slides/14-cache-memories.pdf) | L5 (cachelab) out | [周小妹](https://github.com/zhouxiaomeier)
 S7  | 11.02 |               |            |         
 15  | 11.06 | **Mid-term exam**  | |
 16  | 11.08 | Advanced Technologies | | 
