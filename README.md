@@ -44,8 +44,8 @@ S7  | 11.02 |               |            |
 15  | 11.06 | **Mid-term exam**  | |
 16  | 11.08 | Advanced Technologies | | 
 S8  | 11.09 |               |            |         
-17  | 11.13 | Linking | L5 due | [季卫明慧](https://github.com/JVMH)
-18  | 11.15 | ECF: Exceptions & Processes | L6 (tshlab) out | [张俊楠](https://github.com/zjnzero)
+17  | 11.13 | [Linking](slides/17-Linking.pdf) | L5 due | [季卫明慧](https://github.com/JVMH)
+18  | 11.15 | [ECF: Exceptions & Processes](slides/18-ECF-procs.pdf) | L6 (tshlab) out | [张俊楠](https://github.com/zjnzero)
 S9  | 11.16 |               |            |         
 19  | 11.20 | ECF: Signals & Nonlocal Jumps | | [向东伟](https://github.com/David-Xiang)
 20  | 11.22 | System Level I/O |  | [于长泓](https://github.com/pkuych)
