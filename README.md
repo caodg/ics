@@ -45,7 +45,7 @@ S7  | 11.02 |               |            |
 16  | 11.08 | Advanced Technologies | | 
 S8  | 11.09 |               |            |         
 17  | 11.13 | [Linking](slides/17-Linking.pdf) | L5 due | [季卫明慧](https://github.com/JVMH)
-18  | 11.15 | [ECF: Exceptions & Processes](slides/18-ECF-procs.pdf) | L6 (tshlab) out | [张俊楠](https://github.com/zjnzero)
+18  | 11.15 | [ECF: Exceptions & Processes](slides/18-ECF-procs.pdf) | L6 (tshlab) out | [黄镛](https://github.com/Olivina) 
 S9  | 11.16 |               |            |         
 19  | 11.20 | ECF: Signals & Nonlocal Jumps | | [向东伟](https://github.com/David-Xiang)
 20  | 11.22 | System Level I/O |  | [于长泓](https://github.com/pkuych)
@@ -57,7 +57,7 @@ S11 | 11.30 |               |            |
 24  | 12.06 | Network Programming I | | [杨璧鸿](https://github.com/damoguda)
 S12 | 12.07 |               |            |         
 25  | 12.11 | Network Programming II | L7 due | [张智涵](https://github.com/ytyz1307zzh)
-26  | 12.13 | Concurrent Programming | L8 (proxylab) out | [黄镛](https://github.com/Olivina)
+26  | 12.13 | Concurrent Programming | L8 (proxylab) out | [张俊楠](https://github.com/zjnzero)
 S13 | 12.14 |               |            |         
 27  | 12.18 | Synchronization: Basic | | 待定
 28  | 12.20 | Synchronization: Advanced | L8 due | 待定
