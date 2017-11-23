@@ -47,8 +47,8 @@ S8  | 11.09 |               |            |
 17  | 11.13 | [Linking](slides/17-Linking.pdf) | L5 due | [季卫明慧](https://github.com/JVMH)
 18  | 11.15 | [ECF: Exceptions & Processes](slides/18-ECF-procs.pdf) | L6 (tshlab) out | [黄镛](https://github.com/Olivina) 
 S9  | 11.16 |               |            |         
-19  | 11.20 | ECF: Signals & Nonlocal Jumps | | [向东伟](https://github.com/David-Xiang)
-20  | 11.22 | System Level I/O |  | [于长泓](https://github.com/pkuych)
+19  | 11.20 | [ECF: Signals & Nonlocal Jumps](slides/B03-ECF2.pptx) | | [向东伟](https://github.com/David-Xiang)
+20  | 11.22 | [System Level I/O](B04-SysIO.pptx) |  | [于长泓](https://github.com/pkuych)
 S10 | 11.23 |               |            |         
 21  | 11.27 | Virtual Memory: Concepts  | L6 due | [梁堃昌泰](https://github.com/lkct)
 22  | 11.29 | Virtual Memory: Systems | L7(malloclab) out | [王希豪](https://github.com/VictorWonder)
