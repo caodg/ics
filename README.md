@@ -53,8 +53,8 @@ S10 | 11.23 |               |            |
 21  | 11.27 | [Virtual Memory: Concepts](slides/B05-VM1.pptx)  | L6 due | [梁堃昌泰](https://github.com/lkct)
 22  | 11.29 | [Virtual Memory: Systems](slides/B06-VM2.pptx) | L7(malloclab) out | [王希豪](https://github.com/VictorWonder)
 S11 | 11.30 |               |            |         
-23  | 12.04 | Dynamic Memory Allocation |  | [李孝天](https://github.com/PblackT)
-24  | 12.06 | Network Programming I | | [杨璧鸿](https://github.com/damoguda)
+23  | 12.04 | [Dynamic Memory Allocation](slides/B07-DMM.pptx) |  | [李孝天](https://github.com/PblackT)
+24  | 12.06 | [Network Programming I](slides/B08-NET1-internet.pptx) | | [杨璧鸿](https://github.com/damoguda)
 S12 | 12.07 |               |            |         
 25  | 12.11 | Network Programming II | L7 due | [张智涵](https://github.com/ytyz1307zzh)
 26  | 12.13 | Concurrent Programming | L8 (proxylab) out | [张俊楠](https://github.com/zjnzero)
