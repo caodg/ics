@@ -56,8 +56,8 @@ S11 | 11.30 |               |            |
 23  | 12.04 | [Dynamic Memory Allocation](slides/B07-DMM.pptx) |  | [李孝天](https://github.com/PblackT)
 24  | 12.06 | [Network Programming I](slides/B08-NET1-internet.pptx) | | [杨璧鸿](https://github.com/damoguda)
 S12 | 12.07 |               |            |         
-25  | 12.11 | Network Programming II | L7 due | [张智涵](https://github.com/ytyz1307zzh)
-26  | 12.13 | Concurrent Programming | L8 (proxylab) out | [张俊楠](https://github.com/zjnzero)
+25  | 12.11 | [Network Programming II](slides/B09-NET2-socket.pptx) | L7 due | [张智涵](https://github.com/ytyz1307zzh)
+26  | 12.13 | [Concurrent Programming](slides/B10-NET3-webservices.pptx) | L8 (proxylab) out | [张俊楠](https://github.com/zjnzero)
 S13 | 12.14 |               |            |         
 27  | 12.18 | Synchronization: Basic | | [周小妹](https://github.com/zhouxiaomeier)
 28  | 12.20 | Synchronization: Advanced | L8 due | [向东伟](https://github.com/David-Xiang)
