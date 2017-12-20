@@ -57,11 +57,11 @@ S11 | 11.30 |               |            |
 24  | 12.06 | [Network Programming I](slides/B08-NET1-internet.pptx) | | [杨璧鸿](https://github.com/damoguda)
 S12 | 12.07 |               |            |         
 25  | 12.11 | [Network Programming II](slides/B09-NET2-socket.pptx) | L7 due | [张智涵](https://github.com/ytyz1307zzh)
-26  | 12.13 | [Concurrent Programming](slides/B10-NET3-webservices.pptx) | L8 (proxylab) out | [张俊楠](https://github.com/zjnzero)
+26  | 12.13 | [Web Services](slides/B10-NET3-webservices.pptx) | L8 (proxylab) out | [张俊楠](https://github.com/zjnzero)
 S13 | 12.14 |               |            |         
-27  | 12.18 | Synchronization: Basic | | [周小妹](https://github.com/zhouxiaomeier)
-28  | 12.20 | Synchronization: Advanced | L8 due | [向东伟](https://github.com/David-Xiang)
+27  | 12.18 |  [Concurrency](slides/B12-CONC.pptx) | | [周小妹](https://github.com/zhouxiaomeier)
+28  | 12.20 |  [Synchronization: Basic](slides/B13-SYNC1.pptx) | L8 due | [向东伟](https://github.com/David-Xiang)
 S14 | 12.21 |               |            |         
-29  | 12.25 | Multicore | | [张俊楠](https://github.com/zjnzero)
+29  | 12.25 | [Synchronization: Advanced](slides/B14-SYNC2.pptx)| | [张俊楠](https://github.com/zjnzero)
 30  | 12.29 | **Course review** | |
 S15 | 12.30 |               |            |         
