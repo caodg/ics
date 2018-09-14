@@ -2,13 +2,13 @@
 
 教师: 曹东刚 (caodg AT pku.edu.cn)
 
-助教: 吕栋杰 (winser AT pku.edu.cn,  https://github.com/jind5182)
+助教: 吕栋杰 (winser AT pku.edu.cn,  https://github.com/huisedenanhai)
 
-教室: 二教506
+教室: 地学楼208
 
 学生: [名单及出勤](students.md)
 
-作业: [提交到助教的ics作业仓库](https://github.com/jind5182/ics21hw), [格式](https://github.com/jind5182/ics21hw/blob/master/1600012794.md)
+作业: [提交到助教的ics作业仓库](https://github.com/huisedenanhai/ics19hw), [格式](https://github.com/jind5182/ics21hw/blob/master/1600012794.md)
 
 Lab: 题目及提交在 https://ics16.pku.edu.cn, 可在线使用[北大燕雀平台](http://iwork.pku.edu.cn)做Lab
 
@@ -20,8 +20,8 @@ Lab: 题目及提交在 https://ics16.pku.edu.cn, 可在线使用[北大燕雀�
 
 No. | Date  |      Topic    |   Assign   | Reviewer
 ----| ------|---------------|----------- | ---------
-1   | 09.11 | [Overview](slides/01-overview.pdf)   |  |
-2   | 09.13 | [Bits and Bytes/Integers](slides/02-bits-bytes-ints.pdf) | L1 (datalab) out | [周小妹](https://github.com/zhouxiaomeier)
+1   | 09.17 | [Overview](slides/01-overview.pdf)   |  |
+2   | 09.20 | [Bits and Bytes/Integers](slides/02-bits-bytes-ints.pdf) | L1 (datalab) out | [周小妹](https://github.com/zhouxiaomeier)
 S1  | 09.14 |               |            |         
 3   | 09.18 | [Floating Point](slides/03-float.pdf) |   | [季卫明慧](https://github.com/JVMH)
 4   | 09.20 | [Machine Prog: Basics](slides/04-machine-basics.pdf) | L1 due | [张俊楠](https://github.com/zjnzero)
