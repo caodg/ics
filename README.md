@@ -1,10 +1,10 @@
-# ICS Seminar 21 , 2017 @ PKU
+# ICS Seminar 19 , 2018 @ PKU
 
 教师: 曹东刚 (caodg AT pku.edu.cn)
 
-助教: 金典 (jind AT pku.edu.cn,  https://github.com/jind5182)
+助教: 吕栋杰 (winser AT pku.edu.cn,  https://github.com/jind5182)
 
-教室: ~~文史楼102~~ 理教411
+教室: 二教506
 
 学生: [名单及出勤](students.md)
 
