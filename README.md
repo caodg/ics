@@ -21,7 +21,7 @@ Lab: 题目及提交在 https://ics16.pku.edu.cn, 可在线使用[北大燕雀�
 No. | Date  |      Topic    |   Assign   | Reviewer
 ----| ------|---------------|----------- | ---------
 1   | 09.17 | [Overview](slides/01-overview.pdf)   |  | 
- |       | [Overview Labs](slides/01-overview-Labs.pdf)   |  | 
+ |   09.17  | [Overview Labs](slides/01-overview-Labs.pdf)   |  | 
 2   | 09.19 | [Bits and Bytes/Integers](slides/02-bits-bytes-ints.pdf) | L1 (datalab) out | 
 S1   | 09.20 |  |  |
 3   | 09.26 | [Floating Point](slides/03-float.pdf) | L1 due   | 
