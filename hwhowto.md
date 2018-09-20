@@ -1,11 +1,11 @@
 作业提交
 =======
 
-ICS平时作业, 大家用 Markdown 格式文件, 提交到 bitbucket.org 中.
+ICS平时作业, 大家用 Markdown 格式文件, 提交到 https://bitbucket.org 中.
 
 以学生 张三, 1610012345 为例:
 
-1. 首先在 bitbucket.org 注册一个账号, Username 假定为 zhangsan 
+1. 首先在 https://bitbucket.org 注册一个账号, Username 假定为 zhangsan 
 
 2. 建立一个私有库( Private Repository), 库名为自己的学号 1610012345
 
