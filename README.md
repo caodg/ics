@@ -1,14 +1,14 @@
 # ICS Seminar 21 , 2018 @ PKU
 
-教师: 曹东刚 (caodg AT pku.edu.cn)
+教师: 曹东刚 (caodg AT pku.edu.cn, https://bitbucket.org/caodg)
 
-助教: 吕栋杰 (winser AT pku.edu.cn,  https://github.com/huisedenanhai)
+助教: 吕栋杰 (winser AT pku.edu.cn,  https://bitbucket.org/huisedenanhai)
 
 教室: 地学楼208
 
 学生: [名单及出勤](students.md)
 
-作业: 邮件发送给助教
+作业: [网上提交](hwhowto.md)
 
 Lab: 题目及提交在 https://ics16.pku.edu.cn, 可在线使用[北大燕雀平台](http://iwork.pku.edu.cn)做Lab
 
