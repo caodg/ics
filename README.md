@@ -27,43 +27,43 @@ S1   | 09.20 |  |  |
 3   | 09.26 | [Floating Point](slides/03-float.pdf) | L1 due   | 陈暑
 S2   | 09.27 |  |  |
 4   | 10.8 | [Machine Prog: Basics](slides/04-machine-basics.pdf) | L2 (bomblab) out | 李琬其
-5   | 10.10 | [Machine Prog: Control](slides/05-machine-control.pdf) | | 迟常业
+5   | 10.10 | [Machine Prog: Control](slides/05-machine-control.pdf) | | 梁浩
 S3   | 10.11 |  |  |
-6   | 10.15 | [Machine Prog: Procedures](slides/06-machine-procedures.pdf) |L2 due | 梁浩
-7   | 10.17 | [Machine Prog: Data](slides/07-machine-data.pdf) | L3(attacklab) out | 李宇轩
+6   | 10.15 | [Machine Prog: Procedures](slides/06-machine-procedures.pdf) |L2 due | 李宇轩
+7   | 10.17 | [Machine Prog: Data](slides/07-machine-data.pdf) | L3(attacklab) out | 杨汀
 S4   | 10.18 |  |  |
-8   | 10.22 | [Machine Prog: Advanced](slides/08-machine-advanced.pdf) | L3 due | 杨汀
-9   | 10.24 | [Processor Arch: ISA&Logic](slides/09-ProcessorArch-ISALogic.pdf) |L4 (archlab) out | 何为
+8   | 10.22 | [Machine Prog: Advanced](slides/08-machine-advanced.pdf) | L3 due | 李维瑄
+9   | 10.24 | [Processor Arch: ISA&Logic](slides/09-ProcessorArch-ISALogic.pdf) |L4 (archlab) out | 侯太格
 S5   | 10.25 |  |  |
-10  | 10.29 | [Processor Arch: Sequential](slides/10-ProcessorArch-Sequential.pdf) | L4-a checkpoint | 李维瑄
-11  | 10.31 | [Processor Arch: Pipelined](slides/11-ProcessorArch-Pipelined.pdf) | L4-b checkpoint | 侯太格
+10  | 10.29 | [Processor Arch: Sequential](slides/10-ProcessorArch-Sequential.pdf) | L4-a checkpoint | 马天卓
+11  | 10.31 | [Processor Arch: Pipelined](slides/11-ProcessorArch-Pipelined.pdf) | L4-b checkpoint | 赵旭峰
 S6   | 11.1 |  |  |
-12  | 11.5 | [Program optimization](slides/12-optimization.pdf) | L4 due | 马天卓
-13  | 11.7 | [The Memory Hierarchy](slides/13-memory-hierarchy.pdf) | | 赵旭峰
+12  | 11.5 | [Program optimization](slides/12-optimization.pdf) | L4 due | 杨春序
+13  | 11.7 | [The Memory Hierarchy](slides/13-memory-hierarchy.pdf) | | 李健正
 S7   | 11.8 |  |  |
-14  | 11.12 | [Cache Memories](slides/14-cache-memories.pdf) | L5 (cachelab) out | 杨春序
+14  | 11.12 | [Cache Memories](slides/14-cache-memories.pdf) | L5 (cachelab) out | 段浩诚
 15  | 11.14 | **Mid-term exam**  | |
 S8   | 11.15 |  |  |
 16  | 11.19 | Advanced Technologies | L5 due|
-17  | 11.21 | [Linking](slides/17-Linking.pdf) | | 李健正
+17  | 11.21 | [Linking](slides/17-Linking.pdf) | | 贾瑞琪
 S9   | 11.22 |  |  |
-18  | 11.26 | [ECF: Exceptions & Processes](slides/18-ECF-procs.pdf) | L6 (tshlab) out | 段浩诚
-19  | 11.28 | [ECF: Signals & Nonlocal Jumps](slides/B03-ECF2.pptx) | | 贾瑞琪
+18  | 11.26 | [ECF: Exceptions & Processes](slides/18-ECF-procs.pdf) | L6 (tshlab) out | 陈暑
+19  | 11.28 | [ECF: Signals & Nonlocal Jumps](slides/B03-ECF2.pptx) | | 李琬其
 S10   | 11.29 |  |  |
-20  | 12.3 | [System Level I/O](slides/B04-SysIO.pptx) | L6 due | 陈暑
-21  | 12.5 | [Virtual Memory: Concepts](slides/B05-VM1.pptx)  | | 李琬其
+20  | 12.3 | [System Level I/O](slides/B04-SysIO.pptx) | L6 due | 梁浩
+21  | 12.5 | [Virtual Memory: Concepts](slides/B05-VM1.pptx)  | | 李宇轩
 S11   | 12.6 |  |  |
-22  | 12.10 | [Virtual Memory: Systems](slides/B06-VM2.pptx) | | 迟常业
-23  | 12.12 | [Dynamic Memory Allocation](slides/B07-DMM.pptx) |  L7(malloclab) out | 梁浩
+22  | 12.10 | [Virtual Memory: Systems](slides/B06-VM2.pptx) | | 杨汀
+23  | 12.12 | [Dynamic Memory Allocation](slides/B07-DMM.pptx) |  L7(malloclab) out | 李维瑄
 S12   | 12.13 |  |  |
-24  | 12.17 | [Network Programming I](slides/B08-NET1-internet.pptx) | | 李宇轩
-25  | 12.19 | [Network Programming II](slides/B09-NET2-socket.pptx) | | 杨汀
-S13   | 12.20 |  |  | 
-26  | 12.24 | [Concurrent Programming](slides/B12-CONC.pptx) | L7 due | 何为
-27  | 12.26 | [Synchronization: Basic](slides/B13-SYNC1.pptx)|L8 (proxylab) out | 李维瑄
+24  | 12.17 | [Network Programming I](slides/B08-NET1-internet.pptx) | | 侯太格
+25  | 12.19 | [Network Programming II](slides/B09-NET2-socket.pptx) | | 马天卓
+S13   | 12.20 |  |  |
+26  | 12.24 | [Concurrent Programming](slides/B12-CONC.pptx) | L7 due | 赵旭峰
+27  | 12.26 | [Synchronization: Basic](slides/B13-SYNC1.pptx)|L8 (proxylab) out | 杨春序
 S14   | 12.27 |  |  |
-28  | 12.31 |  [Synchronization: Advanced](slides/B14-SYNC2.pptx)| | 侯太格
-29  | 1.2 | Multicore| L8 due | 马天卓
+28  | 12.31 |  [Synchronization: Advanced](slides/B14-SYNC2.pptx)| | 李健正
+29  | 1.2 | Multicore| L8 due | 段浩诚
 S15   | 1.3 |  |  |
 30  | 1.7 | **Final Exam** | |
 
