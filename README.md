@@ -30,9 +30,9 @@ S2   | 09.27 |  |  |
 5   | 10.10 | [Machine Prog: Control](slides/05-machine-control.pdf) | | 梁浩
 S3   | 10.11 |  |  |
 6   | 10.15 | [Machine Prog: Procedures](slides/06-machine-procedures.pdf) |L2 due | 李宇轩
-7   | 10.17 | [Machine Prog: Data](slides/07-machine-data.pdf) | L3(attacklab) out | 杨汀
+7   | 10.17 | [Machine Prog: Data](slides/07-machine-data.pdf) | L3(attacklab) out | 李维瑄
 S4   | 10.18 |  |  |
-8   | 10.22 | [Machine Prog: Advanced](slides/08-machine-advanced.pdf) | L3 due | 李维瑄
+8   | 10.22 | [Machine Prog: Advanced](slides/08-machine-advanced.pdf) | L3 due | 杨汀
 9   | 10.24 | [Processor Arch: ISA&Logic](slides/09-ProcessorArch-ISALogic.pdf) |L4 (archlab) out | 侯太格
 S5   | 10.25 |  |  |
 10  | 10.29 | [Processor Arch: Sequential](slides/10-ProcessorArch-Sequential.pdf) | L4-a checkpoint | 马天卓
